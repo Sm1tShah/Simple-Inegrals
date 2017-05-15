@@ -1,4 +1,4 @@
-//Smit Shah, sss160030
+//Smit Shah
 //TRIG FUNCTIONS
 #include <iostream>
 #include "bst.h"
