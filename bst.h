@@ -1,4 +1,4 @@
-//Smit Shah sss160030
+//Smit Shah
 #include "node.h"
 #include <iostream>
 #include <vector>
