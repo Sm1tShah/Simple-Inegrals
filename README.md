@@ -2,6 +2,8 @@
 Integrating simple polynomials and few trigonometric functions 
 
 Input:
+
+
 | 1sin x - cos x dx
 
 
@@ -12,6 +14,8 @@ Input:
 
 
 Output:
+
+
 -cos(x) -sin(x) + C
 
 
